@@ -1,6 +1,6 @@
 # Security Policy
 
-Contact: [security@reclaimprotocol.org](mailto:security@reclaimprotocol.org)
+Contact: [reswanislam@gmail.com](mailto:reswanislam@gmail.com)
 
 At Reclaim Protocol, we prioritize the security of our systems. However, we acknowledge that vulnerabilities may still exist despite our best efforts. We appreciate your help in identifying and reporting these vulnerabilities so we can address them promptly.
 
@@ -22,7 +22,7 @@ We do not consider the following to be in-scope vulnerabilities:
 
 When reporting a vulnerability, please:
 
-1. Email your findings to [security@reclaimprotocol.org](mailto:security@reclaimprotocol.org)
+1. Email your findings to [reswanislam@gmail.com](mailto:security@reclaimprotocol.org)
 2. Avoid using automated scanners on our infrastructure or dashboard without prior permission
 3. Refrain from exploiting the vulnerability beyond what's necessary to demonstrate it
 4. Keep the issue confidential until it's resolved
