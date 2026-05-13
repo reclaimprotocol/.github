@@ -7,7 +7,7 @@
         <h4 align="center">
             <a href="https://reclaimprotocol.org">Website</a> |
             <a href="https://docs.reclaimprotocol.org/">Documentation</a> |
-            <a href="https://www.reclaimprotocol.org/whitepaper">Whitepaper</a> |
+            <a href="https://drive.google.com/file/d/1Tok4J6mv7PwRCbwxVNhv4alS82sQJI4E/view?usp=sharing">Whitepaper</a> |
             <a href="https://www.reclaimprotocol.org/ecosystem/">Ecosystem</a> |
             <a href="https://t.me/protocolreclaim">Community</a>
         </h4>
